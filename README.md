@@ -39,6 +39,7 @@ ARG="2 1 3 6 5 8"
 Run with no arguments:
 
 ./push_swap
+
 ✅ Should output nothing, just return to prompt.
 
 
