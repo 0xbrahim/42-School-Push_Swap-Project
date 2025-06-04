@@ -5,7 +5,7 @@ the lowest possible number of actions. To succeed you’ll have to manipulate va
 types of algorithms and choose the most appropriate solution (out of many) for an
 optimized data sorting.
 
--  -  - TEST CASES -  -  -  -
+- TEST CASES:
         
 ✔ 1. Basic Usage
 Run your program with a basic test:
