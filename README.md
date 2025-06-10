@@ -23,6 +23,7 @@ ARG="2 1 3 6 5 8"
 ⭐ Count the moves:
 
 ARG="2 1 3 6 5 8"
+
 ./push_swap $ARG | wc -l
 
 
